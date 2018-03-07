@@ -1,0 +1,12 @@
+//
+// Created by Stephanie Spears on 2/20/18.
+//
+
+#ifndef LIVECODINGPROBLEMS_SINGLYLINKEDLIST_H
+#define LIVECODINGPROBLEMS_SINGLYLINKEDLIST_H
+
+
+void SinglyLinkedList();
+
+
+#endif //LIVECODINGPROBLEMS_SINGLYLINKEDLIST_H
